@@ -13,7 +13,7 @@
 
 
 **Measuring VBA Code Performance Between Original and Refactored Code**
-- Two types of code were written to perform stock analysis: one that used two for loops, and a refactored code that used an index and an array. Below is each macro's run time (in seconds) for 2017 and 2018 stock data. The VBA excel macro can be viewed here. 
+- Two types of code were written to perform stock analysis: one that used two for loops, and a refactored code that used an index and an array. Below is each macro's run time (in seconds) for 2017 and 2018 stock data. The VBA excel macro can be viewed [here](https://github.com/gabalita/stock-analysis/blob/main/VBA_Challenge.xlsm).
 
 <img width="427" alt="Performance Data" src="https://user-images.githubusercontent.com/10199828/123674504-acca9a00-d80f-11eb-8885-f188aa73f6cd.png">
 
